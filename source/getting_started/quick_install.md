@@ -69,3 +69,11 @@ cd /usr/src/fusionpbx-install.sh/freebsd && ./install.sh
 ```
 
 
+:::{tip}
+:class: myclass1 myclass2
+:name: a-tip-reference
+Let's give readers a helpful hint!
+:::
+
+[Reference to my tip](#a-tip-reference)
+
