@@ -1,4 +1,4 @@
-## FusionPBX Install1
+## FusionPBX Install
 
 A Simple Guide to installing FusionPBX
  
@@ -9,9 +9,9 @@ Debian 12 is the recommended operating system. Start with a minimal install.
 Download: [Debian 12](https://cdimage.debian.org/cdimage), [Debian 11](https://cdimage.debian.org/cdimage/archive)
 
 For best results, please ensure your server has been fully updated first...
-~~~
+```
 sudo apt update && apt upgrade
-~~~
+```
 
 Then run the following as root.
 ```
