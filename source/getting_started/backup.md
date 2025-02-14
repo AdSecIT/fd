@@ -1,7 +1,5 @@
 # Backup
 
-|
-
 It\'s always good to have a backup method in place. Here are the steps
 to a basic backup method with FusionPBX. The install script on Debian
 will automatically copy this backup script to
@@ -67,7 +65,7 @@ use FreeSWITCH package paths. If you have an older install using source
 be sure to change this by commenting the package line #22 and uncomment
 the source line #25.)
 
-Crontab (optional) \^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^
+## Crontab (optional)
 
 Files in /etc/cron.daily will execute automatically if they don\'t have
 an extension like .sh for this reason the backup script was renamed from
