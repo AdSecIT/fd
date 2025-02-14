@@ -31,12 +31,8 @@ are for you.
 
 - ## [Admin Class](https://www.fusionpbx.com/training.php)
 
-       * Webex meeting and in person        
-       *   Access to Class Documentation
-       *   Recorded video of the class for you to keep
-       *   Interactive question and answer with the FusionPBX founder and trainer
-       *   Covers the basics and some advanced topics with FusionPBX
-       *   Plus much more.
+  * My other, nested
+  * bullet point list!
 
 - ## [Advanced Class](https://www.fusionpbx.com/training.php)
 
