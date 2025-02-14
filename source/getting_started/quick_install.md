@@ -75,5 +75,3 @@ cd /usr/src/fusionpbx-install.sh/freebsd && ./install.sh
 Let's give readers a helpful hint!
 :::
 
-[Reference to my tip](#a-tip-reference)
-
