@@ -1,5 +1,7 @@
 # Backup
 
+
+
 It\'s always good to have a backup method in place. Here are the steps
 to a basic backup method with FusionPBX. The install script on Debian
 will automatically copy this backup script to
