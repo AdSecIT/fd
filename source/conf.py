@@ -40,6 +40,7 @@ myst_enable_extensions = [
     "tasklist",
     "deflist",
     "dollarmath",
+    "html_image",
 ]
 
 [extensions]
