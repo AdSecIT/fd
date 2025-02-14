@@ -22,14 +22,15 @@ Continuing Education class. If you want to accelerate your understanding
 of how to use FusionPBX and unleash your full potential these classes
 are for you.
 
-- Lists can start with `-` or `*`
-  * My other, nested
-  * bullet point list!
-
-1. My numbered list
-2. has two points
-
-- ## [Admin Class](https://www.fusionpbx.com/training.php)
+-## [Admin Class](https://www.fusionpbx.com/training.php)
+  * Webex meeting and in person
+  * Access to Class Documentation
+  * Recorded video of the class for you to keep
+  * Interactive question and answer with the FusionPBX founder and trainer
+  * Covers the basics and some advanced topics with FusionPBX
+  * Plus much more…
+ 
+- 
 
   * My other, nested
   * bullet point list!
