@@ -29,7 +29,7 @@ import os
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.autodoc', 'myst_parser', 'sphinx.ext.mathjax', 'sphinx.ext.todo', 
+    'sphinx.ext.autodoc', 'sphinx.ext.viewcode', 'myst_parser', 'sphinx.ext.mathjax', 'sphinx.ext.todo', 
 ]
     # Enable MyST extensions
 myst_enable_extensions = [
