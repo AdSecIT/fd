@@ -46,10 +46,10 @@ myst_enable_extensions = [
 
 html_context = {
     "display_github": True,  # Add this line to enable GitHub link
-    "github_user": "your-github-username",  # Replace with your GitHub username
-    "github_repo": "your-repo-name",  # Replace with your repository name
+    "github_user": "AdSecIT",  # Replace with your GitHub username
+    "github_repo": "fd",  # Replace with your repository name
     "github_version": "main",  # Or 'master', or the branch you want to link to
-    "conf_py_path": "/docs/",  # Path to your conf.py file from the repo root
+    "conf_py_path": "/",  # Path to your conf.py file from the repo root
 }
 
 html_show_sourcelink = True
