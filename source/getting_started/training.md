@@ -24,7 +24,7 @@ are for you.
 
 -
 
-    [Admin Class](https://www.fusionpbx.com/training.php)
+## [Admin Class](https://www.fusionpbx.com/training.php)
 
        -   Webex meeting and in person
         -   Access to Class Documentation
@@ -36,7 +36,7 @@ are for you.
 
 -
 
-    [Advanced Class](https://www.fusionpbx.com/training.php)
+## [Advanced Class](https://www.fusionpbx.com/training.php)
 
        -   Webex meeting and in person
         -   Access to Class Documentation
@@ -48,7 +48,7 @@ are for you.
 
 -
 
-    [Continuing Education](https://www.fusionpbx.com/training.php)
+## [Continuing Education](https://www.fusionpbx.com/training.php)
 
     :   -   Quarterly Webex meeting on changes with FusionPBX
         -   Option to take the advanced or admin over again (included in
