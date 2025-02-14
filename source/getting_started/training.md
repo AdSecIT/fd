@@ -22,9 +22,9 @@ Continuing Education class. If you want to accelerate your understanding
 of how to use FusionPBX and unleash your full potential these classes
 are for you.
 
--
 
-## [Admin Class](https://www.fusionpbx.com/training.php)
+
+- ## [Admin Class](https://www.fusionpbx.com/training.php)
 
        -   Webex meeting and in person
         -   Access to Class Documentation
@@ -34,9 +34,7 @@ are for you.
         -   Covers the basics and some advanced topics with FusionPBX
         -   Plus much more\...
 
--
-
-## [Advanced Class](https://www.fusionpbx.com/training.php)
+- ## [Advanced Class](https://www.fusionpbx.com/training.php)
 
        -   Webex meeting and in person
         -   Access to Class Documentation
@@ -46,9 +44,7 @@ are for you.
         -   Covers advanced topics and methods
         -   Plus much more\...
 
--
-
-## [Continuing Education](https://www.fusionpbx.com/training.php)
+- ## [Continuing Education](https://www.fusionpbx.com/training.php)
 
     :   -   Quarterly Webex meeting on changes with FusionPBX
         -   Option to take the advanced or admin over again (included in
