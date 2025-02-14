@@ -75,6 +75,10 @@ cd /usr/src/fusionpbx-install.sh/freebsd && ./install.sh
 Let's give readers a helpful hint!
 :::
 
-{attribution="That old phone ad."}
-> Can you hear me now?.
+{lineno-start=1 emphasize-lines="2,3"}
+```python
+a = 1
+b = Highlighted
+c = Also Highlighted
+```
 
