@@ -31,10 +31,13 @@ import os
 extensions = [
     'sphinx.ext.autodoc', 'myst_parser', 'sphinx.ext.mathjax', 'sphinx.ext.todo', 
 ]
-
-# Enable MyST extensions
+    # Enable MyST extensions
 myst_enable_extensions = [
     "colon_fence",
+    "deflist",
+    "dollarmath",
+    "html_image",
+    "linkify",
 ]
 
 [extensions]
