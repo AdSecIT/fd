@@ -120,11 +120,7 @@ You should then see and follow the prompts:
     + 1 pending challenge(s)
     + Deploying challenge tokens...
 
-::: note
-::: title
-Note
-:::
-
+:::{note}
 When you define the txt record with your domain registrar be sure to use
 the output of the script you are running and not what is in this
 example.
@@ -158,11 +154,7 @@ example.
     nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
     nginx: configuration file /etc/nginx/nginx.conf test is successful
 
-::: tip
-::: title
-Tip
-:::
-
+:::{tip}
 Use the dig command to check that the txt record is correct. dig -t txt
 \_acme-challenge.domain.tld
 
