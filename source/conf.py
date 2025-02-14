@@ -41,6 +41,7 @@ myst_enable_extensions = [
     "deflist",
     "dollarmath",
     "html_image",
+    "attrs_block",
 ]
 
 [extensions]
