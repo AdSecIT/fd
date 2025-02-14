@@ -38,6 +38,8 @@ myst_enable_extensions = [
     "smartquotes",
     "substitution",
     "tasklist",
+    "html_image",
+    "linkify",
 ]
 
 [extensions]
