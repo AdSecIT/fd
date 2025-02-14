@@ -35,14 +35,6 @@ extensions = [
 # Enable MyST extensions
 myst_enable_extensions = [
     "colon_fence",
-    "deflist",
-    "dollarmath",
-    "html_image",
-    "linkify",
-    "replacements",
-    "smartquotes",
-    "substitution",
-    "tasklist",
 ]
 
 [extensions]
