@@ -26,7 +26,7 @@ are for you.
 
     [Admin Class](https://www.fusionpbx.com/training.php)
 
-    :   -   Webex meeting and in person
+       -   Webex meeting and in person
         -   Access to Class Documentation
         -   Recorded video of the class for you to keep
         -   Interactive question and answer with the FusionPBX founder
@@ -38,7 +38,7 @@ are for you.
 
     [Advanced Class](https://www.fusionpbx.com/training.php)
 
-    :   -   Webex meeting and in person
+       -   Webex meeting and in person
         -   Access to Class Documentation
         -   Recorded video of the class for you to keep
         -   Interactive question and answer with the FusionPBX founder
