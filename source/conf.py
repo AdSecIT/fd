@@ -48,7 +48,7 @@ html_context = {
     "display_github": True,  # Add this line to enable GitHub link
     "github_user": "AdSecIT",  # Replace with your GitHub username
     "github_repo": "fd",  # Replace with your repository name
-    "github_version": "main",  # Or 'master', or the branch you want to link to
+    "github_version": "master/source/",  # Or 'master', or the branch you want to link to
     "conf_py_path": "/",  # Path to your conf.py file from the repo root
 }
 
