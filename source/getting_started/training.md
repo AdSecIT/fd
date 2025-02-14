@@ -31,25 +31,20 @@ are for you.
   * Plus much more…
 
 - ## [Advanced Class](https://www.fusionpbx.com/training.php)
-
-       -   Webex meeting and in person
-        -   Access to Class Documentation
-        -   Recorded video of the class for you to keep
-        -   Interactive question and answer with the FusionPBX founder
-            and trainer
-        -   Covers advanced topics and methods
-        -   Plus much more\...
+  * Webex meeting and in person
+  * Access to Class Documentation
+  * Recorded video of the class for you to keep
+  * Interactive question and answer with the FusionPBX founder and trainer
+  * Covers advanced topics and methods
+  * Plus much more…
 
 - ## [Continuing Education](https://www.fusionpbx.com/training.php)
-
-    :   -   Quarterly Webex meeting on changes with FusionPBX
-        -   Option to take the advanced or admin over again (included in
-            the membership)
-        -   Report bugs or ask questions that might not have come up
-            until now
-        -   Get a closer more in-depth look into FusionPBX
-        -   Know how to use new features when they are added
-        -   Know how to upgrade to the next release version
-        -   Plus much more\...
-
+  * Quarterly Webex meeting on changes with FusionPBX
+  * Option to take the advanced or admin over again (included in the membership)
+  * Report bugs or ask questions that might not have come up until now
+  * Get a closer more in-depth look into FusionPBX
+  * Know how to use new features when they are added
+  * Know how to upgrade to the next release version
+  * Plus much more…
+    
 ### [Come join us! We look forward to meeting you!](https://www.fusionpbx.com/training.php)
