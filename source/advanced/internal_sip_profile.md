@@ -82,7 +82,7 @@
 | presence-probe-on-register          | true                                       | True    |                                                              |
 | presence-proto-lookup               | true                                       | False   |                                                              |
 | record-path                         | $${recordings_dir}                         | True    |                                                              |
-| record-template | ${domain_name}/<br>archive/<br>${strftime(%Y)}/<br>${strftime(%b)}/<br>${strftime(%d)}/<br>${uuid}.${record_ext} | True | |
+| record-template  | \${domain_name}/<br>archive/<br>\${strftime(%Y)}/<br>\${strftime(%b)}/<br>\${strftime(%d)}/<br>\${uuid}.\${record_ext} | True    |       |
 | registration-thread-frequency       | 30                                         | False   |                                                              |
 | renegotiate-codec-on-hold           | true                                       | False   |                                                              |
 | rfc2833-pt                          | 101                                        | True    |                                                              |
