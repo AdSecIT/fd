@@ -4,7 +4,7 @@
 
 ![image](../_static/images/fusionpbx_sip_profiles.jpg)
 
-### [Internal](/en/latest/advanced/internal_sip_profile.html)
+### [Internal](internal_sip_profile.nd)
 
 Internal sip profiles (port 5060/5061) require registration or [access
 controls](access_controls.md)
