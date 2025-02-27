@@ -12,7 +12,7 @@ cidr range to allow the IP address in without SIP authentication. Once
 the access controls are setup correctly, the carrier will be allowed to
 send calls to the internal profile.
 
-### [External](..\external_sip_profile.md)
+### [External](http://docs.fusionpbx.com/en/latest/advanced/external_sip_profile.html)
 
 External sip profiles (port 5080-5081) allow anonymous connection to
 FusionPBX and is optional. External profile is optional when freewitch
