@@ -20,7 +20,8 @@ has a public ip address. Can be useful when setting behind nat. Being
 anonymous doesn\'t mean totally open due to the inbound routes call
 conditions.(call filtering)
 
-## [Internal ipv6](/en/latest/advanced/internal_ipv6_sip_profile.html)
+## [Internal ipv6](internal_ipv6_sip_profile.html)
+https://fd2.readthedocs.io/en/latest/advanced/internal_sip_profile.html
 
 Internal ipv6 sip profiles (port 5060/5061) require registration or
 [access
