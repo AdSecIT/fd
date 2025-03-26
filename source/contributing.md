@@ -32,9 +32,13 @@ It does this by verifying that the code you are contributing is yours to give an
 
 :::: note
 <p class="admonition-title">Note</p>
+
+::::
+
+:::{note}
 Contributing code or documentation requires knowledge of Git, GitHub, and how to create pull requests on GitHub.
 This is not as bad as it sounds, and if you are willing to learn, we will help you through it.
-::::
+:::
 
 ## Table of Contents
 
