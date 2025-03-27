@@ -129,11 +129,9 @@ lynx https://accounts.google.com/b/0/DisplayUnlockCaptcha
 
 To see if there are any failed email attempts goto Status > Emails. Once the issue causing the emails to fail is found you can click to resend them.
 
-:::: note
-<p class="admonition-title">Note</p>
-
+:::{note}
 The log is stored in the /tmp directory.
-::::
+:::
 
 ## Email Log
 
