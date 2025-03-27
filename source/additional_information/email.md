@@ -4,8 +4,8 @@ This is where you configure email settings to receive email notifications of voi
 
 Here are some example settings for some of the most common email providers.
 
-- [SMTP2GO](#SMTP2GO)
-- [GMAIL](#Gmail)
+- [SMTP2GO](#smtp2go)
+- [Gmail](#gmail)
 
 | Default Setting Subcategory | Default Setting Name | Default Setting Value          | Default Setting Enabled | Default Setting Description                                                       |
 |-----------------------------|----------------------|--------------------------------|-------------------------|-----------------------------------------------------------------------------------|
@@ -22,7 +22,7 @@ Here are some example settings for some of the most common email providers.
 
 Error log for failed or successfully sent messages.
 
-- [Email Log](#Email Log)
+- [Email Log](#email-log)
 
 ## How to Configure Email Settings in FusionPBX v5.3
 
