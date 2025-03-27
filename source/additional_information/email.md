@@ -39,6 +39,7 @@ Follow these steps to set up email notifications:
    - `smtp_password`: Provide your SMTP password.
    - `smtp_from`: Specify the sender email address (e.g., `noreply@example.com`).
    - `smtp_from_name`: Define the sender’s display name (e.g., "FusionPBX Alerts").
+   
 
 5. **Save and Reload**
 
