@@ -1,65 +1,52 @@
 # Email
 
-This is where you configure email settings to receive email notifications of voicemail, missed calls and fax.
+Configure your email settings to enable notifications for voicemails, missed calls, transcriptions and faxes directly to your inbox.
 
-Here are some example settings for some of the most common email providers.
+Below are some example configurations for popular email providers:
 
 - [SMTP2GO](#smtp2go)
 - [Gmail](#gmail)
 
-| Default Setting Subcategory | Default Setting Name | Default Setting Value          | Default Setting Enabled | Default Setting Description                                                       |
-|-----------------------------|----------------------|--------------------------------|-------------------------|-----------------------------------------------------------------------------------|
-| smtp_host                   | text                 | mail.server.provider.com       | TRUE                    | email providers server address                                                    |
-| smtp_from                   | text                 | emailexample@emailprovider.com | TRUE                    | smtp from emaill address                                                          |
-| smtp_port                   | numeric              | 587                            | TRUE                    | port number of the mail server provider                                           |
-| smtp_from_name              | text                 | Voicemail                      | TRUE                    | smtp from name                                                                    |
-| smtp_auth                   | text                 | TRUE                           | TRUE                    | If smtp auth is required                                                          |
-| smtp_username               | text                 | user name                      | TRUE                    | typically the email user name                                                     |
-| smtp_password               | text                 | supersecurepassword!           | TRUE                    | typically the email password                                                      |
-| smtp_secure                 | text                 | tls                            | TRUE                    | tls or ssl depending on the provider.                                             |
-| smtp_validate_certificate   | boolean              | TRUE                           | TRUE                    | set to false to ignore SSL certificate warnings e.g. for self-signed certificates |
-| method                      | text                 | smtp                           | TRUE                    | smtp\|sendmail\|mail\|qmail                                                       |
-
-Error log for failed or successfully sent messages.
+Review logs of sent or failed email attempts:
 
 - [Email Log](#email-log)
 
-## How to Configure Email Settings in FusionPBX v5.3
+## Configuring Email Settings in FusionPBX v5.3
+
+Follow these steps to set up email notifications:
 
 1. **Access the FusionPBX Web Interface**
 
-   Open your browser and go to your FusionPBX URL (e.g., http://<your-ip-or-domain>/).
+   Launch your web browser and navigate to your FusionPBX URL (e.g., `http://<your-ip-or-domain>/`).
 
 2. **Navigate to Default Settings**
 
-   Go to Advanced > Default Settings.
+   From the menu, select **Advanced** > **Default Settings**.
 
 3. **Filter for Email Settings**
 
-   In the Default Settings section, select "Email" from the drop-down filter.
+   In the Default Settings section, choose "Email" from the drop-down filter.
 
-4. **Update and Enable Email Configuration**
+4. **Configure Email Parameters**
 
-   Locate and update the following settings:
+   Update the following settings with your provider’s details:
 
-   - smtp_host: Set to your SMTP server (e.g., smtp.your-email-provider.com).
-   - smtp_port: Set to 587 (or the port required by your SMTP server).
-   - smtp_secure: Choose tls (or ssl if required by your provider).
-   - smtp_auth: Set to true.
-   - smtp_username: Enter your SMTP username.
-   - smtp_password: Enter your SMTP password.
-   - smtp_from: Specify the sender's email address (e.g., noreply@example.com).
-   - smtp_from_name: Enter the sender's name.
+   - `smtp_host`: Enter your SMTP server address (e.g., `smtp.your-email-provider.com`).
+   - `smtp_port`: Set to `587` (or your provider’s specified port).
+   - `smtp_secure`: Select `tls` (or `ssl`, depending on your provider’s requirements).
+   - `smtp_auth`: Enable by setting to `true`.
+   - `smtp_username`: Input your SMTP username.
+   - `smtp_password`: Provide your SMTP password.
+   - `smtp_from`: Specify the sender email address (e.g., `noreply@example.com`).
+   - `smtp_from_name`: Define the sender’s display name (e.g., "FusionPBX Alerts").
 
 5. **Save and Reload**
 
-   Save the changes and click Reload to apply the settings.
+   Save the changes and click **Reload** to apply the new settings.
 
-6. **Test the Email Configuration**
+6. **Verify the Configuration**
 
-   Navigate to Status > Email Queue.
-
-   Send a test email to confirm that the configuration works correctly.
+   From the menu. select **Status** > **Email Queue** and send a test email to ensure everything works as expected.
 
 ## SMTP2GO
 
