@@ -1,4 +1,67 @@
-# SMTP2GO
+# Email
+
+This is where you configure email settings to receive email notifications of voicemail, missed calls and fax.
+
+Here are some example settings for some of the most common email providers.
+
+- [SMTP2GO](#SMTP2GO)
+- [GMAIL](#Gmail)
+
+| Default Setting Subcategory | Default Setting Name | Default Setting Value          | Default Setting Enabled | Default Setting Description                                                       |
+|-----------------------------|----------------------|--------------------------------|-------------------------|-----------------------------------------------------------------------------------|
+| smtp_host                   | text                 | mail.server.provider.com       | TRUE                    | email providers server address                                                    |
+| smtp_from                   | text                 | emailexample@emailprovider.com | TRUE                    | smtp from emaill address                                                          |
+| smtp_port                   | numeric              | 587                            | TRUE                    | port number of the mail server provider                                           |
+| smtp_from_name              | text                 | Voicemail                      | TRUE                    | smtp from name                                                                    |
+| smtp_auth                   | text                 | TRUE                           | TRUE                    | If smtp auth is required                                                          |
+| smtp_username               | text                 | user name                      | TRUE                    | typically the email user name                                                     |
+| smtp_password               | text                 | supersecurepassword!           | TRUE                    | typically the email password                                                      |
+| smtp_secure                 | text                 | tls                            | TRUE                    | tls or ssl depending on the provider.                                             |
+| smtp_validate_certificate   | boolean              | TRUE                           | TRUE                    | set to false to ignore SSL certificate warnings e.g. for self-signed certificates |
+| method                      | text                 | smtp                           | TRUE                    | smtp\|sendmail\|mail\|qmail                                                       |
+
+Error log for failed or successfully sent messages.
+
+- [Email Log](#Email Log)
+
+## How to Configure Email Settings in FusionPBX v5.3
+
+1. **Access the FusionPBX Web Interface**
+
+   Open your browser and go to your FusionPBX URL (e.g., http://<your-ip-or-domain>/).
+
+2. **Navigate to Default Settings**
+
+   Go to Advanced > Default Settings.
+
+3. **Filter for Email Settings**
+
+   In the Default Settings section, select "Email" from the drop-down filter.
+
+4. **Update and Enable Email Configuration**
+
+   Locate and update the following settings:
+
+   - smtp_host: Set to your SMTP server (e.g., smtp.your-email-provider.com).
+   - smtp_port: Set to 587 (or the port required by your SMTP server).
+   - smtp_secure: Choose tls (or ssl if required by your provider).
+   - smtp_auth: Set to true.
+   - smtp_username: Enter your SMTP username.
+   - smtp_password: Enter your SMTP password.
+   - smtp_from: Specify the sender's email address (e.g., noreply@example.com).
+   - smtp_from_name: Enter the sender's name.
+
+5. **Save and Reload**
+
+   Save the changes and click Reload to apply the settings.
+
+6. **Test the Email Configuration**
+
+   Navigate to Status > Email Queue.
+
+   Send a test email to confirm that the configuration works correctly.
+
+## SMTP2GO
 
 SMTP2GO is a paid email service for sending email. They do however have 1,000 free messages a month and paid plans that are reasonable.
 
@@ -37,7 +100,7 @@ SMTP2GO is a paid email service for sending email. They do however have 1,000 fr
 | smtp_validate_certificate   | boolean              | TRUE                       | True                    | set to false to ignore SSL certificate warnings e.g. for self-signed certificates |
 | method                      | text                 | sendmail                   | False                   | smtp\|sendmail\|mail\|qmail                                                       |
 
-# Gmail
+## Gmail
 
 Goto Advanced > Default Settings and under the `Email` Section. Make sure these settings are enabled. Once these values are set press the **Reload** button at the top right of the page.
 
@@ -72,7 +135,7 @@ To see if there are any failed email attempts goto Status > Emails. Once the iss
 The log is stored in the /tmp directory.
 ::::
 
-# Email Log
+## Email Log
 
 Successfully sent email example.
 
