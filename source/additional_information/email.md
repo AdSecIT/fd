@@ -11,6 +11,8 @@ Review logs of sent or failed email attempts:
 
 - [Email Log](#email-log)
 
+***
+
 ## Configuring Email Settings in FusionPBX v5.3
 
 Follow these steps to set up email notifications:
@@ -48,6 +50,8 @@ Follow these steps to set up email notifications:
 6. **Verify the Configuration**
 
    From the menu. select **Status** > **Email Queue** and send a test email to ensure everything works as expected.
+
+***
 
 ## SMTP2GO
 
@@ -88,6 +92,8 @@ SMTP2GO is a paid email service for sending email. They do however have 1,000 fr
 | smtp_validate_certificate   | boolean              | TRUE                       | True                    | set to false to ignore SSL certificate warnings e.g. for self-signed certificates |
 | method                      | text                 | sendmail                   | False                   | smtp\|sendmail\|mail\|qmail                                                       |
 
+***
+
 ## Gmail
 
 Goto Advanced > Default Settings and under the `Email` Section. Make sure these settings are enabled. Once these values are set press the **Reload** button at the top right of the page.
@@ -120,6 +126,8 @@ To see if there are any failed email attempts goto Status > Emails. Once the iss
 :::{note}
 The log is stored in the /tmp directory.
 :::
+
+***
 
 ## Email Log
 
