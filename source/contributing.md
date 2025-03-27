@@ -35,7 +35,7 @@ Contributing code or documentation requires knowledge of Git, GitHub, and how to
 This is not as bad as it sounds, and if you are willing to learn, we will help you through it.
 :::
 
-:::{note}The log is stored in the /tmp directory.:::
+:::{note} The log is stored in the /tmp directory. :::
 
 ## Table of Contents
 
