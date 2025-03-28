@@ -29,6 +29,14 @@ The log1 is stored in the /tmp directory.
 ```{note} The lo4 is stored in the /tmp directory.
 ```
 
+```note
+Test
+```
+
+:::note
+Test
+:::
+
 ## Table of Contents
 
 - [Contributing Code](contributing/contributing_code.md)
