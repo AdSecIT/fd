@@ -38,6 +38,9 @@ This is not as bad as it sounds, and if you are willing to learn, we will help y
 :::{note} The log is stored in the /tmp directory.
 :::
 
+```{note} The log is stored in the /tmp directory.
+```
+
 ## Table of Contents
 
 - [Contributing Code](contributing/contributing_code.md)
