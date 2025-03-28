@@ -37,6 +37,16 @@ Test
 Test
 :::
 
+***note
+Test2
+***
+
+***note Test2
+***
+
+***{note} Test2
+***
+
 ## Table of Contents
 
 - [Contributing Code](contributing/contributing_code.md)
