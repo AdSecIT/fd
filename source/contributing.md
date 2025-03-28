@@ -30,15 +30,18 @@ It does this by verifying that the code you are contributing is yours to give an
 3. Are you a FusionPBX power user and do you possibly love to write? Check out the Documentation Guide or the Testing Guide.
 4. Would you like to see FusionPBX in your native language and have the time to commit to staying on top of translations for releases? Check out the translation section to learn how to use our translation server.
 
-:::{note}
-Contributing code or documentation requires knowledge of Git, GitHub, and how to create pull requests on GitHub.
-This is not as bad as it sounds, and if you are willing to learn, we will help you through it.
-:::
+```{note}
+The log1 is stored in the /tmp directory.
+```
 
-:::{note} The log is stored in the /tmp directory.
-:::
+```{note}
+ The log2 is stored in the /tmp directory.
+```
 
-```{note} The log is stored in the /tmp directory.
+```{note}The log3 is stored in the /tmp directory.
+```
+
+```{note} The lo4 is stored in the /tmp directory.
 ```
 
 ## Table of Contents
