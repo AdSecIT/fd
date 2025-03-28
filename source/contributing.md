@@ -10,14 +10,6 @@ There are many ways to help the FusionPBX project.
 4. Quality Assurance Testers
 5. Documentors
 
-:::: note
-<p class="admonition-title">Note</p>
-
-If you are planning to contribute to any of our GitHub repos, we require that you sign the FusionPBX Contributor License Agreement.
-This mainly protects FusionPBX and our users **(read: you)** from code that could be inserted that might pose a legal problem.
-It does this by verifying that the code you are contributing is yours to give and that you give it freely and irrevocably to the project.
-::::
-
 ## How to Get Started:
 
 1. Watch the "FusionPBX Pull Requests with GitHub" YouTube video: [https://youtu.be/SPUe7S4Z6ms](https://youtu.be/SPUe7S4Z6ms)
@@ -32,13 +24,6 @@ It does this by verifying that the code you are contributing is yours to give an
 
 ```{note}
 The log1 is stored in the /tmp directory.
-```
-
-```{note}
- The log2 is stored in the /tmp directory.
-```
-
-```{note}The log3 is stored in the /tmp directory.
 ```
 
 ```{note} The lo4 is stored in the /tmp directory.
