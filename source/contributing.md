@@ -1,8 +1,8 @@
-## Contributing
+#
 
 There are many ways to help the FusionPBX project.
 
-## What We Need
+# Contributing / What We Need
 
 1. Developers
 2. Technical Writers
@@ -38,7 +38,7 @@ This is not as bad as it sounds, and if you are willing to learn, we will help y
 :::
 
 ```{toctree}
-:maxdepth: 3
+:maxdepth: 2
 
 contributing/contributing_code.md
 contributing/signing_the_cla.md
