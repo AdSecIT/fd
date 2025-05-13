@@ -1,4 +1,4 @@
-# Contributing
+## Contributing
 
 There are many ways to help the FusionPBX project.
 
