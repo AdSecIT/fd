@@ -37,13 +37,14 @@ Contributing code or documentation requires knowledge of Git, GitHub, and how to
 This is not as bad as it sounds, and if you are willing to learn, we will help you through it.   
 :::
 
-## Table of Contents
+```{toctree}
+:maxdepth: 3
 
-- [Contributing Code](contributing/contributing_code.md)
-- [Signing the CLA](contributing/signing_the_cla.md)
-- [Contributing Documentation](contributing/contributing_documentation.md)
-- [Contributing Translations](contributing/contributing_translations.md)
-- [QA Testing](contributing/qa_testing.md)
-- [GitHub Rebase](contributing/github_rebase.md)
-- [Coding Standards](contributing/coding_standards.md)
-<!-- # [Directory Structure](contributing/directory_structure.md) -->
+contributing/contributing_code.md
+contributing/signing_the_cla.md
+contributing/contributing_documentation.md
+contributing/contributing_translations.md
+contributing/qa_testing.md
+contributing/github_rebase.md
+contributing/coding_standards.md
+```
